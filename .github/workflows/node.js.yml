@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: packej-log.json
+    runs-on: ubuntu-latest
 
     strategy:
       matrix:
